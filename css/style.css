@@ -5,6 +5,9 @@
     background-color: #000000;
 }
 
+.legend {
+    font-size: 100px;   
+}
 #graph {
     width: 600px;
     height: 600px;
