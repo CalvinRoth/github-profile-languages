@@ -43,6 +43,7 @@
             text.innerHTML = cData.title;
             text.setAttribute("y", 11);
             text.setAttribute("x", 20);
+            text.setAttribute("class", "legitem"
 
             rect.setAttribute("fill", cData.color);
 
