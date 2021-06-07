@@ -8,6 +8,10 @@ body {
     font-family: "Oswald", "Helvetica Newe", Helvetica, sans-serif;
 }
 
+.legitem {
+  fill : white;   
+}
+
 .chart {
     position: absolute;
     width: 500px;
