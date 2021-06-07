@@ -5,9 +5,10 @@
     background-color: #000000;
 }
 
-.legend {
-    font-size: 100px;   
+.legitem{
+    fill: white;  
 }
+
 #graph {
     width: 600px;
     height: 600px;
